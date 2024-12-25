@@ -36,6 +36,7 @@ Clone the Repository
 
 # Clone this repository
 git clone https://github.com/your-username/dsp-tool.git
+
 cd dsp-tool
 
 
@@ -109,7 +110,7 @@ Please ensure your code adheres to the project’s coding standards and includes
 
 # Support :
 
-If you encounter any issues or have suggestions, please open an issue on GitHub or contact us directly at support@dsp-tool.org.
+If you encounter any issues or have suggestions, please open an issue on GitHub or contact us directly.
 
 # Acknowledgments :
 
